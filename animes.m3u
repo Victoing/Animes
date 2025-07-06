@@ -3,15 +3,6 @@
 #EXTINF:0 tvg-id="YN" tvg-name="YNFIME" tvg-logo="https://pm1.aminoapps.com/6674/a8cd1f2a7411f04dbcdc062bf17a2516e128cb1d_128.jpg" group-title=ggeasy,Your Name
 https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/sd/1.mp4
 
-//CHAINSAW MAN 1
-
-#EXTINF:-1 tvg-id="csw.com" tvg-name="CSM1-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Chainsaw_Man_-_Capa_-_Volume_1.jpg" group-title=CSM,Chainsaw Man ep01
-https://lightspeedst.net/s3/mp4/chainsaw-man/sd/1.mp4
-#EXTINF:-1 tvg-id="csw.com" tvg-name="CSM1-2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Chainsaw_Man_-_Capa_-_Volume_1.jpg" group-title=CSM,Chainsaw Man ep02
-https://lightspeedst.net/s3/mp4/chainsaw-man/sd/2.mp4
-#EXTINF:-1 tvg-id="csw.com" tvg-name="CSM1-3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Chainsaw_Man_-_Capa_-_Volume_1.jpg" group-title=CSM,Chainsaw Man ep03
-https://lightspeedst.net/s3/mp4/chainsaw-man/sd/3.mp4
-
 //KAIJUU 1
 
 #EXTINF:-1 tvg-id="Kj1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep01 DUB
@@ -99,3 +90,12 @@ https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/11.mp4
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/12.mp4
 #EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL2-13" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep13 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/13.mp4
+
+//CHAINSAW MAN 1
+
+#EXTINF:-1 tvg-id="csw.com" tvg-name="CSM1-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Chainsaw_Man_-_Capa_-_Volume_1.jpg" group-title=CSM,Chainsaw Man ep01
+https://lightspeedst.net/s3/mp4/chainsaw-man/sd/1.mp4
+#EXTINF:-1 tvg-id="csw.com" tvg-name="CSM1-2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Chainsaw_Man_-_Capa_-_Volume_1.jpg" group-title=CSM,Chainsaw Man ep02
+https://lightspeedst.net/s3/mp4/chainsaw-man/sd/2.mp4
+#EXTINF:-1 tvg-id="csw.com" tvg-name="CSM1-3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Chainsaw_Man_-_Capa_-_Volume_1.jpg" group-title=CSM,Chainsaw Man ep03
+https://lightspeedst.net/s3/mp4/chainsaw-man/sd/3.mp4
