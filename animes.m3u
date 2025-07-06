@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 group-title=ggeasy,Your Name
+#EXTINF:0 tvg-id="YN" tvg-name="YNFIME" tvg-logo="" group-title=ggeasy,Your Name
 https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/sd/1.mp4
 
 //CHAINSAW MAN 1
@@ -13,88 +13,88 @@ https://lightspeedst.net/s3/mp4/chainsaw-man/sd/3.mp4
 
 //KAIJUU 1
 
-#EXTINF:0 group-title=K1,Kaijuu1 ep01
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep01 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/01.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep02
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep02 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/02.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep03
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep03 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/03.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep04
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep04 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/04.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep05
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep05 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/05.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep06
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep06 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/06.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep07
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep07 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/07.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep08
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep08 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/08.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep09
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep09 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/09.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep10
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep10 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/10.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep11
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep11 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/11.mp4
-#EXTINF:0 group-title=K1,Kaijuu1 ep12
+#EXTINF:-1 tvg-id="K8-1" tvg-name="Kaijuu8-1" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title=K1,Kaijuu1 ep12 DUB
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/12.mp4
 
 //KAIJUU 2 LEG
 
-#EXTINF:0 group-title=K2,Kaijuu2 ep01 LEG
+#EXTINF:-1 tvg-id="K8-2" tvg-name="Kaijuu8-2" tvg-logo="https://na.cdn.beatsaver.com/54efededb17483da74bb049b86cda755129b9b39.jpg" group-title=K2,Kaijuu2 ep01 LEG
 https://eos.feralhosting.com/inazu/Letra-K/Kaijuu 8-gou 2nd Season/Episódio X.mp4
 
 //SOLO LEVELING 1 DUB
 
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep01 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep01 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/01.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep02 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep02 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/02.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep03 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep03 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/03.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep04 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep04 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/04.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep05 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep05 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/05.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep06 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep06 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/06.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep07 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep07 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/07.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep08 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep08 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/08.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep09 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep09 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/09.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep10 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep10 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/10.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep11 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep11 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/11.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep12 DUB
+#EXTINF:-1 tvg-id="SL-1" tvg-name="SoloL-1" tvg-logo="https://podcastaddict.com/cache/artwork/thumb/4821526" group-title=SL1,SoloLeveling1 ep12 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/12.mp4
 
 //SOLO LEVELING 2 DUB
 
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep01 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep01 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/01.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep02 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep02 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/02.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep03 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep03 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/03.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep04 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep04 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/04.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep05 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep05 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/05.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep06 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep06 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/06.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep07 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep07 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/07.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep08 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep08 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/08.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep09 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep09 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/09.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep10 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep10 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/10.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep11 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep11 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/11.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep12 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep12 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/12.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep13 DUB
+#EXTINF:-1 tvg-id="SL-2" tvg-name="SoloL-2" tvg-logo="https://discord.do/wp-content/uploads/2023/08/Solo-LevelingARISE.jpg" group-title=SL2,SoloLeveling2 ep13 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/13.mp4
