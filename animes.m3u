@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0,Your Name
+#EXTINF:0 group-title=ggeasy,Your Name
 https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/sd/1.mp4
 #EXTINF:0 group-title=CSM,CSM 01
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/1.mp4
 #EXTINF:0 group-title=CSM,CSM 02
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/2.mp4
-#EXTINF:0 group-title=CSM,CSM 03
+#EXTINF:0 group-title=CSM,CSM 04
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/3.mp4
-#EXTINF:0,SporTV FHD
+#EXTINF:0 group-title=ggeasy,CSM 03
 http://5ce.co:80/77a576/30s1006/6928
