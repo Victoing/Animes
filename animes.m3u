@@ -2,14 +2,16 @@
 #EXTINF:0 group-title=ggeasy,Your Name
 https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/sd/1.mp4
 
+//CHAINSAW MAN 1
 
-#EXTINF:0 group-title=CSM,CSM 01
+#EXTINF:0 group-title=CSM,Chainsaw Man ep01
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/1.mp4
-#EXTINF:0 group-title=CSM,CSM 02
+#EXTINF:0 group-title=CSM,Chainsaw Man ep02
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/2.mp4
-#EXTINF:0 group-title=CSM,CSM 03
+#EXTINF:0 group-title=CSM,Chainsaw Man ep03
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/3.mp4
 
+//KAIJUU 1
 
 #EXTINF:0 group-title=K1,Kaijuu1 ep01
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/01.mp4
@@ -36,60 +38,63 @@ https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/11.mp4
 #EXTINF:0 group-title=K1,Kaijuu1 ep12
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/12.mp4
 
-//KAIJUU 2
-#EXTINF:0 group-title=K2,Kaijuu2 ep01
+//KAIJUU 2 LEG
+
+#EXTINF:0 group-title=K2,Kaijuu2 ep01 LEG
 https://eos.feralhosting.com/inazu/Letra-K/Kaijuu 8-gou 2nd Season/Episódio X.mp4
 
-//SOLO LEVELING 1
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep01
+//SOLO LEVELING 1 DUB
+
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep01 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/01.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep02
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep02 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/02.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep03
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep03 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/03.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep04
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep04 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/04.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep05
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep05 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/05.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep06
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep06 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/06.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep07
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep07 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/07.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep08
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep08 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/08.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep09
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep09 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/09.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep10
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep10 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/10.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep11
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep11 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/11.mp4
-#EXTINF:0 group-title=SL1,SoloLeveling1 ep12
+#EXTINF:0 group-title=SL1,SoloLeveling1 ep12 DUB
 https://mangas.cloud/Animes/Letra-S/Solo Leveling/Dub/12.mp4
 
+//SOLO LEVELING 2 DUB
 
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep01
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep01 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/01.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep02
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep02 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/02.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep03
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep03 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/03.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep04
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep04 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/04.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep05
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep05 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/05.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep06
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep06 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/06.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep07
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep07 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/07.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep08
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep08 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/08.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep09
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep09 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/09.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep10
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep10 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/10.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep11
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep11 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/11.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep12
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep12 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/12.mp4
-#EXTINF:0 group-title=SL2,SoloLeveling2 ep13
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep13 DUB
 https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/13.mp4
