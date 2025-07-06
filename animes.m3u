@@ -1,35 +1,69 @@
 #EXTM3U
 #EXTINF:0 group-title=ggeasy,Your Name
 https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/sd/1.mp4
+
+
 #EXTINF:0 group-title=CSM,CSM 01
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/1.mp4
 #EXTINF:0 group-title=CSM,CSM 02
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/2.mp4
 #EXTINF:0 group-title=CSM,CSM 03
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/3.mp4
-#EXTINF:0 group-title=Kaijuu2,K2 ep01
+
+
+#EXTINF:0 group-title=K2,Kaijuu2 ep01
 https://eos.feralhosting.com/inazu/Letra-K/Kaijuu 8-gou 2nd Season/Episódio X.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep01
+
+
+#EXTINF:0 group-title=K1,Kaijuu1 ep01
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/01.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep02
+#EXTINF:0 group-title=K1,Kaijuu1 ep02
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/02.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep03
+#EXTINF:0 group-title=K1,Kaijuu1 ep03
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/03.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep04
+#EXTINF:0 group-title=K1,Kaijuu1 ep04
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/04.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep05
+#EXTINF:0 group-title=K1,Kaijuu1 ep05
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/05.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep06
+#EXTINF:0 group-title=K1,Kaijuu1 ep06
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/06.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep07
+#EXTINF:0 group-title=K1,Kaijuu1 ep07
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/07.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep08
+#EXTINF:0 group-title=K1,Kaijuu1 ep08
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/08.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep09
+#EXTINF:0 group-title=K1,Kaijuu1 ep09
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/09.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep10
+#EXTINF:0 group-title=K1,Kaijuu1 ep10
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/10.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep11
+#EXTINF:0 group-title=K1,Kaijuu1 ep11
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/11.mp4
-#EXTINF:0 group-title=Kaijuu1,K1 ep12
+#EXTINF:0 group-title=K1,Kaijuu1 ep12
 https://animeflix.blog/Animes/Letra-K/Kaijuu 8-gou/Dub/12.mp4
+
+
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep01
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/01.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep02
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/02.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep03
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/03.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep04
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/04.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep05
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/05.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep06
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/06.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep07
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/07.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep08
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/08.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep09
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/09.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep10
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/10.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep11
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/11.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep12
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/12.mp4
+#EXTINF:0 group-title=SL2,SoloLeveling2 ep13
+https://animeflix.blog/Animes/Letra-S/Solo Leveling 2/Dub/13.mp4
