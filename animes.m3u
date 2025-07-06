@@ -4,11 +4,11 @@ https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/sd/1.mp4
 
 //CHAINSAW MAN 1
 
-#EXTINF:0 group-title=CSM,Chainsaw Man ep01
+#EXTINF:-1 group-title=CSM,Chainsaw Man ep01
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/1.mp4
-#EXTINF:0 group-title=CSM,Chainsaw Man ep02
+#EXTINF:-1 group-title=CSM,Chainsaw Man ep02
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/2.mp4
-#EXTINF:0 group-title=CSM,Chainsaw Man ep03
+#EXTINF:-1 group-title=CSM,Chainsaw Man ep03
 https://lightspeedst.net/s3/mp4/chainsaw-man/sd/3.mp4
 
 //KAIJUU 1
