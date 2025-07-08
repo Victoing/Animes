@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:0 tvg-id="YourN" tvg-name="Your Name Filme" tvg-logo="https://pm1.aminoapps.com/6674/a8cd1f2a7411f04dbcdc062bf17a2516e128cb1d_128.jpg" group-title=Your Name,Your Name
+#EXTINF:0 tvg-id="YourN" tvg-name="Your Name Filme" tvg-logo="https://pm1.aminoapps.com/6674/a8cd1f2a7411f04dbcdc062bf17a2516e128cb1d_128.jpg" group-title="filmes",Your Name
 https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/hd/1.mp4
 
 //KAIJUU 1
