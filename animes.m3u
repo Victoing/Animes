@@ -3,24 +3,6 @@
 #EXTINF:-1 tvg-id="YourN" tvg-name="Your Name Filme" tvg-logo="https://pm1.aminoapps.com/6674/a8cd1f2a7411f04dbcdc062bf17a2516e128cb1d_128.jpg" group-title="filmes",Your Name
 https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/hd/1.mp4
 
-
-//KIMETSU NO YAIBA 2 TEMPORADA
-
-#EXTINF:-1 tvg-name="Kimetsu No Yaiba 2-01" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNY2",Kimetsu No Yaiba 2 ep01
-https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/01.mp4
-#EXTINF:-1 tvg-name="Kimetsu No Yaiba 2-02" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNY2",Kimetsu No Yaiba 2 ep02
-https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/02.mp4
-#EXTINF:-1 tvg-name="Kimetsu No Yaiba 2-03" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNY2",Kimetsu No Yaiba 2 ep03
-https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/03.mp4
-#EXTINF:-1 tvg-name="Kimetsu No Yaiba 2-04" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNY2",Kimetsu No Yaiba 2 ep04
-https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/04.mp4
-#EXTINF:-1 tvg-name="Kimetsu No Yaiba 2-05" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNY2",Kimetsu No Yaiba 2 ep05
-https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/05.mp4
-#EXTINF:-1 tvg-name="Kimetsu No Yaiba 2-06" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNY2",Kimetsu No Yaiba 2 ep06
-https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/06.mp4
-#EXTINF:-1 tvg-name="Kimetsu No Yaiba 2-07" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNY2",Kimetsu No Yaiba 2 ep07
-https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/07.mp4
-
 //KAIJUU 1
 
 #EXTINF:-1 tvg-id="Kaiju1" tvg-name="Kaiju8-01" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title="Kaiju1",Kaijuu1 ep01 DUB
@@ -191,6 +173,22 @@ https://animeflix.blog/Animes/Letra-T/To%20Be%20Hero%20X/Dublado/25.mp4
 #EXTINF:-1 tvg-name="Kimetsu No Yaiba-26" tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/18/13/46/0198270.jpg" group-title="KNY",Kimetsu No Yaiba ep26
 https://animeflix.blog/Animes/Letra-T/To%20Be%20Hero%20X/Dublado/26.mp4
 
+//KIMETSU NO YAIBA MUGEN
+
+#EXTINF:-1 tvg-name="Kimetsu No Yaiba M-01" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNYM",Kimetsu No Yaiba Mugen ep01
+https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/01.mp4
+#EXTINF:-1 tvg-name="Kimetsu No Yaiba M-02" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNYM",Kimetsu No Yaiba Mugen ep02
+https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/02.mp4
+#EXTINF:-1 tvg-name="Kimetsu No Yaiba M-03" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNYM",Kimetsu No Yaiba Mugen ep03
+https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/03.mp4
+#EXTINF:-1 tvg-name="Kimetsu No Yaiba M-04" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNYM",Kimetsu No Yaiba Mugen ep04
+https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/04.mp4
+#EXTINF:-1 tvg-name="Kimetsu No Yaiba M-05" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNYM",Kimetsu No Yaiba Mugen ep05
+https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/05.mp4
+#EXTINF:-1 tvg-name="Kimetsu No Yaiba M-06" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNYM",Kimetsu No Yaiba Mugen ep06
+https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/06.mp4
+#EXTINF:-1 tvg-name="Kimetsu No Yaiba M-07" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNYM",Kimetsu No Yaiba Mugen ep07
+https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha-hen/Dub/07.mp4
 //KIMETSU NO YAIBA 2 TEMPORADA
 
 #EXTINF:-1 tvg-name="Kimetsu No Yaiba 2-01" tvg-logo="https://analiseit.com/wp-content/uploads/2021/09/mugen.jpg" group-title="KNY2",Kimetsu No Yaiba 2 ep01
