@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+//KAIJUU 1
+
+#EXTINF:-1 tvg-id="Kaiju1" tvg-name="Kaiju8-01" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title="Kaiju 1",Kaiju 1 ep01 DUB
+http
