@@ -1,6 +1,5 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-//KAIJUU 1
+//Crepúsculo - 2008
 
-#EXTINF:-1 tvg-id="Kaiju1" tvg-name="Kaiju8-01" tvg-logo="https://styles.redditmedia.com/t5_2suphb/styles/communityIcon_iuc4deqgand51.png" group-title="Kaiju 1",Kaiju 1 ep01 DUB
-http
+#EXTINF:-1 tvg-id="Crepúsculo1" tvg-name="Crepúsculo - 2008" tvg-logo="" group-title="crepúsculo-2008, Crepúsculo - 2008 DUB
+https://mv.astr.digital/get.php?q=hd&f=QVVPZ1l4RVZZSjlmcUpBbXFLT3lweFo9&id=QkdaMA==&token=TG1EakJHRG1NR0RqQUdTeUFtV3VBbXA0QUdJeUxtWm1BR1d4TG1XdVpHWj0=
