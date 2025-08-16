@@ -1,5 +1,10 @@
 #EXTM3U
 //HARRY POTTER E A PEDRA FILOSOFAL
 
-#EXTINF:-1 tvg-id="HP1" tvg-name="Harry Potter e a pedra filosofal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/Harry_Potter_Pedra_Filosofal_2001.jpg" group-title="Harry Potter e a pedra filosofal, Harry Potter e a pedra filisofal
+#EXTINF:-1 tvg-id="HP1" tvg-name="Harry Potter e a pedra filosofal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/Harry_Potter_Pedra_Filosofal_2001.jpg" group-title="Harry Potter e a pedra filosofal, Harry Potter e a pedra filisofal 1
 https://cdnst68.tokyvideo.com/videos/611/611519/mp4/d8fc84d38bc34f36240070f31acafc113fc39c380fc2211e93c97a1696a91306.mp4?secure=26_vz5xNyDMhRSgOUF5PWA%3D%3D%2C1755433163
+
+//HARRY POTTER E A CÂMARA SECRETA
+
+#EXTINF:-1 tvg-id="HP2" tvg-name="Harry Potter e a câmara secreta" tvg-logo="https://img.elo7.com.br/product/zoom/2657601/big-poster-filme-harry-potter-e-a-camara-secreta-lo02-90x60-geek.jpg" group-title="Harry Potter e a câmara secreta, Harry Potter e a camara secreta 2
+https://llanfairpwllgwyngyllgo.com/cdn/hls/4f485f882c944d749f43a8fbc9ec87de/master.txt
